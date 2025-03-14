@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I'm Janet.
+I'm a new software developer. 
+I'm looking to make a career change after over 20 years in the electronic manufacturing field. 
+I'm very excited to learn how to code.
